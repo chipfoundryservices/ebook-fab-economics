@@ -1,6 +1,6 @@
 # Chapter 8: The Ultimate Capital Allocation Lattice in Semiconductors
 
-## 8.1 The Munger Inversion Applied to Chip Stocks
+## 8.1 The Inversion Framework Applied to Chip Stocks
 Applying first-principles capital allocation to semiconductor investments:
 - *Invert: What destroys capital in semiconductors?*
   1. Competing in commodity memory (DRAM/NAND) without structural cost leadership.

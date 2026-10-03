@@ -4,7 +4,7 @@
 This volume presents an exhaustive financial and operational analysis of semiconductor fabrication economics, from equipment capex partitioning and straight-line depreciation to capacity utilization, wafer pricing, and the global capital allocation lattice.
 
 ## Repository Contents
-- **`PREFACE.md`**: Charlie Munger's Inversion Principle applied to fab capital allocation.
+- **`PREFACE.md`**: The First-Principles Inversion Framework applied to fab capital allocation.
 - **`chapters/`**: 8 comprehensive financial and technical chapters covering GigaFab capex, depreciation schedules, wafer pricing models, operating leverage, automated material handling (AMHS), equipment supplier moats, geopolitical subsidies (CHIPS Acts), and capital allocation frameworks.
 - **`appendices/`**: Complete economics glossary, mathematical derivations (die cost equations, operating leverage elasticity, discounted cash flow), fab benchmark specs, and portfolio links.
 - **`book13-database-updates.sql`**: Production database keywords for MariaDB (CFS) and PostgreSQL (AMEM).
