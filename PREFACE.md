@@ -4,17 +4,18 @@ A common misconception holds that semiconductor manufacturing is primarily a phy
 
 Physics constrains the possibilities. But economics determines the winners.
 
-Consider this: In 2004, Intel owned the most advanced fab technology in the world. They possessed superior plasma chambers, etch recipes, implant systems, and lithography expertise. Yet they were *losing* process technology to TSMC—a company founded 15 years later with less physics expertise, operating lower-margin businesses, and betting everything on a single business model.
+Consider this: In 2004, Intel owned the most advanced fab technology in the world. They possessed superior plasma chambers, etch recipes, implant systems, and lithography expertise. Yet they eventually fell behind TSMC—a company founded 15 years later, operating contract manufacturing for third parties, and betting everything on a pure-play foundry business model.
 
-How?
+How did this occur?
 
-TSMC mastered not physics, but capital allocation. They understood that the economics of chip fabrication had shifted from process innovation to:
+TSMC mastered not merely physics, but **capital allocation**. They understood that the economics of chip fabrication had shifted decisively toward:
+1. **Depreciation Efficiency:** Extracting 10 to 20 years of production from an initial $10M tool through trailing-edge node retooling.
+2. **Extreme Operational Leverage:** Operating mega-fabs at $>95\%$ capacity utilization where every marginal percentage point yields pure operating profit.
+3. **Yield Learning Velocity:** Converting raw WFE capacity into high-margin good dies faster than competitors.
+4. **Supply Chain Solitude:** Securing sole-supplier relationships with ASML, Tokyo Electron, and Lam Research.
+5. **Customer Concentration Economics:** Partnering deeply with anchor customers (Apple, Nvidia) who underwrite new node R&D and early tool ramp depreciation.
 
-1. **Depreciation efficiency** — Getting 3 more years of production from a $10M tool
-2. **Service revenue** — Winning $200M annual service contracts from customers
-3. **Yield learning** — Converting raw capacity into profitable wafer production
-4. **Supply chain** — Securing sole-supplier relationships with equipment makers
-5. **Vertical integration** — Owning the design->fab->test chain
+This book provides the rigorous, first-principles economic framework behind the world's most capital-intensive enterprise: building, operating, and compounding value in semiconductor mega-fabs.
 
-This book explains why those choices won.
-
+---
+*Authored by the Semiconductor Technical Editorial Group.*
